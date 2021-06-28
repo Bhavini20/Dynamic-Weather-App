@@ -44,6 +44,7 @@ body{
 }
 
 .weatherbody{
+    display: none;
     color: black;
     padding: 20px;
     line-height: 2rem;
