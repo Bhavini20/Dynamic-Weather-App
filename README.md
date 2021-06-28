@@ -1,1 +1,1 @@
-# Dynamic-Weather-App
+# Dynamic-WeatherApp
